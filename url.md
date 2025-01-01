@@ -1,0 +1,35 @@
+# URL
+
+- [ ] [[protocals to search through/computer infrastructure]]
+- [ ] [[protocals to search through/domain name]]
+- [ ] [[protocals to search through/ip address]]
+- [ ] [[protocals to search through/search engine]]
+- [ ] [Web Check](https://web-check.as93.net/)
+- [ ] [WHOIS API | WHOIS Lookup API | Domain WHOIS API](https://www.whoxy.com/)
+- [ ] [URL and website scanner - urlscan.io](https://urlscan.io/)
+- [ ] [YouTube Metadata](https://mattw.io/youtube-metadata/)
+- [ ] [Using Bulk Extractor for Quick OSINT Wins](https://www.digitalforensicstips.com/2019/11/using-bulk-extractor-for-quick-osint.html)
+- [ ] [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/)
+- [ ] [Attack Surface Management and Data Solutions | Censys](https://censys.io/)
+- [ ] [OSINT Training Center - Aware Online](https://www.aware-online.com/)
+- [ ] [OSINT Framework](https://osintframework.com/)
+- [ ] [CyberSudo's OSINT Toolkit.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/1EC0sKA_W9znzsxUt0wye9UYtyATXw5m8/edit?usp=sharing&ouid=104230237185254676067&rtpof=true&sd=true)
+- [ ] [Bellingcat's Online Investigation Toolkit [bit.ly/bcattools] - Google Sheets](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit)
+- [ ] [Digital Journalism | OSINT Essentials](https://www.osintessentials.com/)
+- [ ] [sinwindie/OSINT: Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
+- [ ] [GitHub - cipher387/osint_stuff_tool_collection: A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection/)
+- [ ] [OSINT Tools - OSINT Techniques](https://www.osinttechniques.com/osint-tools.html)
+- [ ] [GitHub - jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [ ] [GitHub - TheBurnsy/Vehicle-OSINT-Collection: A comprehensive list of tools that can be used for finding information related to a specific vehicle.](https://github.com/TheBurnsy/Vehicle-OSINT-Collection)
+- [ ] [NG Cop](https://ngcop.org/)
+- [ ] [Publications-Identity Management](https://www.soc.mil/IdM/publications/IdMpubs.html)
+- [ ] [Worldmap of OSINT tools](http://cybdetective.com/osintmap/)
+- [ ] [osint.tools – Internet Investigation & Intelligence](https://osint.tools/)
+- [ ] [MetaOSINT | Jumpstart Your OSINT Investigation | Interactive Visualization](https://metaosint.github.io/chart)
+- [ ] [File Finder · GitHub](https://github.com/sinwindie/OSINT/find/master)
+- [ ] [Malfrat's OSINT Map](https://map.malfrats.industries/)
+- [ ] [DorkSearch - Speed up your Google Dorking](https://dorksearch.com/)
+- [ ] [https://start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [ ] [https://pleper.com/index.php?do=tools&sdo=cid_converter](https://pleper.com/index.php?do=tools&sdo=cid_converter)
+- [ ] [https://cylect.io](https://cylect.io/)
+- [ ] [https://www.dorkgpt.com/](https://www.dorkgpt.com/)

@@ -1,0 +1,3 @@
+- [Check files for metadata info](https://www.metadata2go.com/)
+- [GitHub - franckferman/MetaDetective: 🕵️ Unleash Metadata Intelligence with MetaDetective. Your Assistant Beyond Metagoofil.](https://github.com/franckferman/MetaDetective)
+- forensically
